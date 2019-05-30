@@ -1,0 +1,16 @@
+{
+  "sources": [
+    "src/**.js",
+    "elements/**.js",
+    "manifest/**",
+    "package.json"
+  ],
+  "extraDependencies": [
+    "node_modules/@webcomponents/webcomponentsjs/bundles/**"
+  ],
+  "builds": [
+    {
+      "preset": "es6-bundled"
+    }
+  ]
+}

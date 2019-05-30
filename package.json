@@ -1,0 +1,20 @@
+{
+  "name": "polymer-playground",
+  "version": "1.0.0",
+  "description": "Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "polymer",
+    "lit-html",
+    "lit-element"
+  ],
+  "author": "BondanRS",
+  "license": "ISC",
+  "dependencies": {
+    "lit-element": "^2.1.0",
+    "lit-html": "^1.1.0"
+  }
+}
